@@ -1,0 +1,87 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+ /* img {
+  display: none;
+}  */
+body {
+    color: ivory;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+  background-color: darkred;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.face {
+    height: 350px;
+}
+.duck{
+  height: 350px;
+}
+.facepillars{
+  height: 350px;
+}
+.yes-button {
+    height: 40px;
+}
+
+
+.duckrabbit {
+    font-family: 'Coiny', cursive;
+}
+
+
+.pillars {
+    font-family: 'Coiny', cursive;
+}
+
+.young {
+    font-family: 'Coiny', cursive;
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+.face-button {
+    height: 40px;
+}
+.girl-button {
+    height: 40px;
+}
+.bunny-button {
+    height: 40px;
+}
+.duck-button {
+    height: 40px;
+}
+.faces-button {
+    height: 40px;
+}
+.pillars-button {
+    height: 40px;
+}
+.young-button {
+    height: 40px;
+}
+.old-button {
+    height: 40px;
+}
